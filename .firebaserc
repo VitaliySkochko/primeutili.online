@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "primeutili-online"
-  }
+    "default": "primeutili-online",
+    "public": "primeutili-online"
+  },
+  "targets": {},
+  "etags": {}
 }
