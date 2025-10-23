@@ -2,7 +2,7 @@
   "projects": {
     "default": "primeutili-online",
     "public": "primeutili-online",
-    "main": "primeutilities-c0a71"
+    "main": "primeutili-online"
   },
   "targets": {},
   "etags": {}
